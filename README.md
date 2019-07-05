@@ -1,10 +1,6 @@
 # ZendSearch component
 
-> ## UNMAINTAINED
->
-> This package is no longer maintained.
-
-You can install using:
+Compatible with Zend Framework 3
 
 ```
 curl -s https://getcomposer.org/installer | php
